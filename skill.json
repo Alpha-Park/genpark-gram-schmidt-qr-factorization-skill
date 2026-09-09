@@ -1,0 +1,17 @@
+{
+  "name": "genpark-gram-schmidt-qr-factorization-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Modified Gram-Schmidt QR Factorization for Orthogonal Projections & Least-Squares Solvers",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "linear-algebra",
+    "qr-decomposition",
+    "gram-schmidt",
+    "least-squares"
+  ]
+}
